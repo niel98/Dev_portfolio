@@ -1,0 +1,15 @@
+.industry-skill-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tech-skill-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.inter-personal-skill-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
